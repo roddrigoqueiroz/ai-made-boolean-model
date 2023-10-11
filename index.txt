@@ -1,0 +1,806 @@
+fl: 0,3, 10,2
+esp: 0,4
+nelson: 0,1
+cavac: 0,1
+tir: 0,1, 18,2
+sorris: 0,1, 14,2
+caminh: 0,1, 1,4, 14,2, 18,2, 22,1
+quer: 0,1, 1,6, 11,1, 13,2, 15,5, 18,6, 22,1, 23,1
+pass: 0,1, 1,1, 8,5, 11,2, 14,1, 15,1, 19,1, 22,3
+dor: 0,2, 5,1, 9,2, 16,1
+hoj: 0,2, 3,8, 6,1, 16,1
+pra: 0,1, 1,1, 3,2, 4,1, 5,2, 7,1, 9,7, 10,7, 11,1, 12,2, 14,5, 16,2, 17,2, 18,6, 20,2, 22,3, 23,2
+voc: 0,1, 3,10, 8,1, 9,6, 10,4, 14,2, 18,6, 20,4
+nao: 0,2, 1,3, 2,3, 3,3, 4,3, 5,2, 7,6, 8,5, 9,1, 11,9, 12,3, 13,1, 14,1, 15,8, 16,2, 17,1, 18,18, 19,4, 20,8, 23,1
+machuc: 0,1, 18,2
+so: 0,1, 1,4, 4,12, 5,1, 7,1, 8,2, 11,7, 13,3, 17,2, 18,6, 19,1, 20,2, 22,1
+err: 0,1, 8,1
+junt: 0,1, 21,2
+minh: 0,1
+alm: 0,1, 5,1, 19,2
+sol: 0,1, 16,2
+pod: 0,1, 5,1, 8,2, 10,2, 11,1, 12,1, 13,1, 14,2, 16,1, 17,1, 18,2, 20,2
+viv: 0,1, 7,1, 13,1, 17,1
+pert: 0,1, 14,2
+lua: 0,1, 1,2, 6,1, 17,1
+espelh: 0,1
+vej: 0,1, 3,2
+mago: 0,1
+olh: 0,1, 1,2, 2,1, 3,2, 4,1, 6,1, 13,2, 18,2
+ras: 0,1
+d: 0,1
+agu: 0,1, 3,2, 15,1
+vid: 0,1, 4,1, 5,1, 8,4, 12,1, 17,1, 20,2, 22,5
+ja: 0,1, 1,2, 2,1, 5,1, 9,3, 10,3, 11,1, 17,1, 18,2, 19,1
+am: 0,1, 1,15, 5,2, 6,1, 8,5, 9,3, 10,3, 14,1, 16,9, 18,2, 22,3
+andanc: 1,1
+beth: 1,1, 15,1
+carvalh: 1,1, 15,1
+vim: 1,4, 11,6, 12,1
+tant: 1,1
+are: 1,1, 3,1
+and: 1,4, 8,1, 14,2
+chei: 1,1, 6,1
+sei: 1,2, 2,1, 3,1, 9,1, 13,1, 16,3
+saudad: 1,1, 9,2, 11,1, 14,1
+imens: 1,1
+vag: 1,1
+vers: 1,2, 11,3
+vest: 1,1
+cetim: 1,1
+mao: 1,1, 19,1
+direit: 1,1
+ros: 1,1, 2,4
+vou: 1,4, 3,4, 10,2, 12,3, 14,1, 15,1, 18,6, 20,6
+lev: 1,9, 4,1, 8,3, 12,1, 14,1, 17,1, 19,2
+mans: 1,1
+derram: 1,1
+lu: 1,1, 14,1, 16,2
+descans: 1,1, 21,1
+fest: 1,1
+fez: 1,1, 3,2, 16,2, 17,1
+feliz: 1,1, 5,1, 6,1, 17,1
+lembr: 1,1, 4,1, 8,1
+serest: 1,1
+dia: 1,1, 4,1, 8,2, 15,1, 22,1
+fiz: 1,3
+ond: 1,7, 9,3, 11,1, 12,2
+par: 1,4
+guerr: 1,2
+sab: 1,2, 2,1, 4,2, 7,1, 8,1, 9,2, 11,1, 14,1, 15,4, 20,2, 22,3
+terr: 1,2, 3,1, 14,1
+encerr: 1,2
+bem: 1,2, 2,1, 3,1, 4,1, 6,2, 7,1, 10,1, 14,2, 16,1, 19,1, 20,2, 23,1
+jamal: 1,2, 15,1
+termin: 1,2, 2,1, 14,1
+ensin: 1,2, 4,1, 19,1, 22,1
+cheg: 1,2, 3,1, 4,1, 11,2, 14,1, 18,4
+rod: 1,2, 17,2
+danc: 1,1, 14,1
+mod: 1,1, 17,1
+cans: 1,1
+encant: 1,1
+use: 1,1
+namor: 1,1
+rei: 1,1, 15,1
+lend: 1,1
+estr: 1,1
+fac: 1,2, 11,1
+acompanh: 1,1
+long: 1,1
+legu: 1,1
+cant: 1,1, 4,1, 14,1, 17,1, 21,2
+tregu: 1,1
+assim: 1,1, 3,1, 5,3, 9,4, 18,24, 19,1
+fal: 2,2, 3,1, 10,2, 19,1, 20,2, 23,2
+cartol: 2,1
+bat: 2,1, 3,6, 15,1
+outr: 2,1, 3,1, 7,1, 22,1, 23,1
+vez: 2,1, 3,2, 16,1, 23,1
+esperanc: 2,1, 14,2
+coraca: 2,1, 5,1, 6,1, 8,8, 9,1, 14,1, 15,1, 18,2, 22,3
+poi: 2,2
+vai: 2,1, 3,6, 12,1, 14,1, 17,1, 20,4, 22,5, 23,1
+vera: 2,1
+enfim: 2,1
+volt: 2,2, 8,1, 9,2, 12,2, 15,3, 20,2
+jardim: 2,1
+cert: 2,1, 15,1
+dev: 2,2, 3,4
+chor: 2,1, 20,2
+qu: 2,1, 4,10, 6,1, 12,1, 14,1, 17,2, 18,4, 23,1
+mim: 2,1, 3,2, 9,3, 16,2, 19,1, 20,2
+queix: 2,1
+bob: 2,1, 12,1, 20,2
+simples: 2,1
+exal: 2,1
+perfum: 2,1, 21,2
+roub: 2,1, 17,1
+ti: 2,1
+ai: 2,1, 3,4, 8,1, 12,2, 23,1
+vir: 2,1, 17,1
+ver: 2,1, 4,1, 5,1, 7,1, 22,1, 23,1
+tristonh: 2,1
+sonh: 2,2, 6,1, 13,2, 14,2, 22,1
+fim: 2,1, 3,1
+candidat: 3,2
+cao: 3,6
+bezerr: 3,2
+silv: 3,2
+jus: 3,1
+malandr: 3,7, 12,3
+lig: 3,6, 18,2
+prov: 3,1
+comprov: 3,1
+versatil: 3,1
+sai: 3,1, 18,4
+la: 3,6, 6,3, 9,2, 10,1, 12,1, 14,14, 15,2, 21,3
+caoz: 3,1
+oh: 3,2
+rapp: 3,1
+sub: 3,1
+morr: 3,1, 17,1, 23,6
+gravat: 3,1
+diz: 3,6, 4,1, 5,1, 7,1, 9,1, 10,2, 14,3, 15,2, 19,17
+gost: 3,1, 7,4, 18,3, 19,2
+rac: 3,1, 4,1
+tend: 3,1
+beb: 3,3
+cachac: 3,1
+ate: 3,1, 4,1, 6,1, 12,1, 14,4, 16,1, 18,25, 22,1
+bagulh: 3,1
+fum: 3,1
+jant: 3,1
+barraca: 3,1
+usou: 3,1
+lat: 3,1
+goiab: 3,1
+prat: 3,1, 6,1
+log: 3,1, 18,2
+perceb: 3,1
+prox: 3,1
+eleica: 3,1
+questa: 3,2
+chuv: 3,2
+ped: 3,15, 18,2
+ajud: 3,2, 4,2, 13,1
+cabec: 3,2, 4,2, 5,1, 15,1
+cong: 3,2
+deu: 3,3, 10,2, 15,4, 18,2, 19,1
+porqu: 3,1, 15,1
+gui: 3,1
+incorpor: 3,2
+diss: 3,4, 16,2, 22,1
+poli: 3,5
+saf: 3,2, 11,1
+cuid: 3,2
+hor: 3,2, 23,1
+vot: 3,8, 17,1
+tamb: 3,2, 4,1, 14,1, 16,1
+irma: 3,4, 13,1
+amanh: 3,9, 6,1, 22,3, 23,1
+mand: 3,7, 11,1, 15,2, 22,1
+polic: 3,5
+hom: 3,1, 17,1
+prend: 3,2
+viu: 3,1, 14,1
+safada: 3,1
+cumpad: 3,4
+ness: 3,1
+pal: 3,1
+divid: 3,1
+sint: 3,1, 7,2
+sacrifici: 3,1
+ha: 3,1, 7,4, 8,1
+brac: 3,1
+operari: 3,1
+lad: 3,1, 5,1, 14,1
+desempreg: 3,1
+jog: 3,2, 14,1, 18,2
+vem: 3,2, 16,2, 18,4, 19,1, 20,2
+tud: 3,1, 5,1, 9,1, 10,1, 17,5
+mud: 3,1, 12,1, 15,1, 17,1
+agor: 3,1, 19,1
+ter: 3,1, 10,2, 15,1, 16,1, 17,1, 19,1
+aind: 3,1, 9,2, 14,1, 19,1
+conf: 3,1
+suj: 3,2
+desist: 3,1
+hah: 3,2
+man: 3,2
+canalh: 3,1
+ganh: 3,1
+duzent: 3,2
+lot: 3,1
+macumb: 3,2
+azar: 3,2
+entidad: 3,1
+per: 3,4
+ae: 3,1
+missa: 3,1
+fic: 3,1, 8,4, 12,1, 17,1, 22,1
+atent: 3,1
+cerol: 3,1
+fin: 3,1
+engan: 3,1
+tod: 3,1, 4,1, 5,1, 6,1, 8,1, 10,1, 17,2, 18,2, 23,1
+mund: 3,1, 10,2, 12,2, 13,1, 14,2, 17,4, 22,1, 23,1
+menos: 3,1
+caboc: 3,2
+ah: 3,1, 8,1, 14,3, 15,2
+caguet: 3,1
+fud: 3,1
+ohh: 3,1
+fu: 3,1
+colh: 4,10, 6,1, 10,1
+pau: 4,10, 23,6
+zec: 4,2
+pagod: 4,1, 11,5, 14,1, 18,2
+vov: 4,10
+cerr: 4,1
+apanh: 4,1
+gravet: 4,1
+met: 4,1, 17,1
+entend: 4,1, 19,1
+feija: 4,1
+conhec: 4,1
+bom: 4,1, 6,1, 15,1, 19,1
+temper: 4,1
+aprend: 4,1, 5,1, 11,6, 12,1, 13,2
+cativ: 4,1
+opinia: 4,1
+menin: 4,1, 13,7
+mar: 4,1, 8,1, 14,1
+penh: 4,1
+fog: 4,1
+lenh: 4,1
+natur: 4,1
+cozinh: 4,9
+2x: 4,5, 10,1, 18,1
+enquant: 4,1
+com: 4,1, 17,2, 22,1
+apront: 4,1
+sent: 4,1, 8,1, 11,1, 22,6
+cont: 4,3
+hist: 4,1
+temp: 4,1, 8,1, 14,1, 22,6
+escravida: 4,1
+vert: 4,1
+lagr: 4,1
+senzal: 4,1
+corp: 4,1, 7,1, 8,1, 18,2
+arrep: 4,1
+voz: 4,1
+cal: 4,1
+gent: 4,1, 7,1, 9,2, 10,1, 13,2, 14,1, 16,4, 17,3, 22,5, 23,1
+atual: 4,1
+apag: 4,1, 8,2
+ment: 4,1
+tradic: 4,1
+usa: 4,1
+pan: 4,1
+mesm: 4,1
+cor: 4,1
+avent: 4,1
+nuanc: 4,1
+afric: 4,1
+mant: 4,1
+pe: 4,1, 13,4, 17,1
+traz: 4,1, 8,1, 10,1, 14,1
+heranc: 4,1
+orix: 4,1
+candombl: 4,1
+sant: 4,1, 12,1
+faz: 4,3, 7,1, 10,1, 14,2, 16,1, 17,1, 18,28, 22,2, 23,2
+merec: 4,1, 5,1
+preconceit: 4,1
+rab: 4,1, 18,2
+raban: 4,1
+natal: 4,1
+copacab: 4,1
+grav: 4,1
+joann: 4,1
+legal: 4,1, 20,2
+brec: 4,1
+sensac: 4,1
+conselh: 5,2
+guinet: 5,1
+deix: 5,1, 8,3, 11,13, 18,2, 19,1, 22,3
+baix: 5,1
+astr: 5,1
+erg: 5,1
+enfr: 5,1
+mal: 5,1, 13,1, 19,1
+agind: 5,1
+ser: 5,1, 8,1, 14,2, 17,1, 22,1
+vital: 5,1, 19,1
+cad: 5,1, 14,3
+experienc: 5,1
+lica: 5,1
+sofr: 5,1, 7,1, 19,1
+dediq: 5,1
+vao: 5,1, 19,1
+lament: 5,1
+encontr: 5,1
+ame: 5,1
+forc: 5,1, 7,1, 17,1
+sucumb: 5,1
+lut: 5,1, 14,2
+abat: 5,1
+entreg: 5,1
+dand: 5,1
+vend: 5,1
+dit: 5,1, 15,1
+enfeitic: 6,2
+alin: 6,1
+calixt: 6,1
+pur: 6,1
+burbur: 6,1
+manh: 6,1, 14,2
+tre: 6,2
+ded: 6,1
+leit: 6,1
+quent: 6,1, 7,1
+ceu: 6,1, 8,1, 15,2
+gigant: 6,1
+avel: 6,1
+sim: 6,1, 19,1
+cerej: 6,1
+ardent: 6,1
+hortel: 6,1
+mil: 6,1, 14,1
+car: 6,1, 10,3, 15,1, 17,1, 18,2
+bandej: 6,1
+abrac: 6,1
+cachecol: 6,1
+pro: 6,2, 11,1, 14,1, 15,1, 17,1, 19,1
+caldeira: 6,1
+jabuticab: 6,1
+chocolat: 6,1
+batom: 6,1
+abracadabr: 6,1
+pot: 6,1
+lembranc: 6,1
+cheir: 6,1
+xic: 6,1
+giz: 6,1
+cril: 6,1
+beij: 6,1, 22,1
+doc: 6,1, 14,3, 15,2, 22,1
+mac: 6,1
+samb: 7,15, 8,1, 14,2, 15,2, 17,1, 18,2, 19,17
+robert: 7,1
+sa: 7,1
+copi: 7,1
+ning: 7,1, 12,1, 16,1
+vontad: 7,2, 20,2, 22,3
+remex: 7,1
+praz: 7,1, 14,2
+val: 7,1, 22,3
+compreend: 7,1
+harmoni: 7,1
+bulic: 7,1
+mex: 7,1
+minor: 7,1
+ve: 7,1
+algu: 7,1, 8,1, 19,1, 22,1
+domin: 7,1
+fing: 7,1, 18,2
+tom: 7,1, 8,1, 18,2, 22,3
+louc: 7,1, 17,1
+rio: 8,4
+paul: 8,1
+viol: 8,1
+consult: 8,1
+dificil: 8,1, 14,2
+neg: 8,1, 18,2
+mani: 8,1
+facil: 8,1
+ach: 8,1, 17,1
+marc: 8,3, 12,1
+deseng: 8,2
+por: 8,2
+cas: 8,1, 15,1, 18,2, 22,3
+difer: 8,1, 10,1, 17,1, 18,2
+brev: 8,1
+sempr: 8,1, 12,1, 13,1
+carnav: 8,1, 23,1
+carreg: 8,1
+trist: 8,1, 22,3
+pens: 8,1, 9,1, 15,2, 18,2, 20,2
+nov: 8,1, 23,2
+anunci: 8,1
+portel: 8,3, 14,1, 15,1
+alvor: 8,1
+conquist: 8,1, 15,1
+vi: 8,1, 11,1, 12,1, 17,1
+apress: 8,1
+alegr: 8,1
+poss: 8,1, 12,1, 14,1, 18,25, 20,2
+defin: 8,1, 16,1
+azul: 8,1, 21,1
+jorg: 9,1, 20,1, 21,1
+araga: 9,1
+acontec: 9,1
+dav: 9,1
+escond: 9,1, 18,2
+to: 9,1, 17,1
+escrev: 9,1, 13,1, 14,1
+cart: 9,1
+form: 9,1
+unia: 9,1
+lind: 9,2, 10,2
+acab: 9,2, 18,2
+depend: 9,1
+ire: 9,2, 21,1
+quis: 9,2, 15,2, 18,2, 20,2
+pud: 9,2
+jess: 10,12
+bebet: 10,1
+nom: 10,7, 13,1, 14,2
+cois: 10,2, 14,1, 22,1
+esper: 10,1
+nasc: 10,5, 16,1, 23,2
+pequen: 10,1
+comec: 10,1
+reg: 10,1
+tard: 10,1, 22,1
+porca: 10,2
+nad: 10,1
+titul: 10,1
+algum: 10,1
+desempar: 10,1
+aqu: 10,1, 11,1, 19,1
+princip: 10,1
+enfrent: 10,2
+luz: 11,2, 14,3, 16,2, 17,1
+repent: 11,3
+jovelin: 11,1
+perol: 11,2
+negr: 11,3
+comig: 11,8, 18,2
+segur: 11,4, 12,1
+cair: 11,4, 15,1
+eee: 11,10
+vacil: 11,7, 12,1
+exib: 11,6
+mostr: 11,6
+partid: 11,2
+pel: 11,1
+venh: 11,1
+improvis: 11,2
+nunc: 11,1
+entr: 11,1
+fil: 11,1
+dou: 11,1
+avis: 11,1, 23,1
+seri: 11,1, 18,2
+cis: 11,1
+brinc: 11,1
+otari: 11,1
+aco: 11,1
+espac: 11,1
+bich: 11,1
+peg: 11,1, 20,2
+estrel: 11,1
+cadent: 11,1
+lei: 11,1
+som: 11,1
+subtra: 11,1
+diam: 11,1
+esmerald: 11,1
+turmalin: 11,1
+rub: 11,1
+fund: 12,2
+quint: 12,1
+moc: 12,1, 13,1, 23,1
+barr: 12,1, 17,1
+sarr: 12,1
+dei: 12,1
+poc: 12,1
+dar: 12,1, 18,2, 20,2
+mol: 12,1
+refund: 12,1
+engol: 12,1
+poe: 12,1
+raster: 12,1
+tent: 12,1
+rebol: 12,1
+consegu: 12,1, 16,1
+escorreg: 12,1
+daqu: 12,1
+dal: 12,1
+malandre: 12,1
+venc: 12,1, 16,1
+sufoc: 12,1
+va: 12,1
+qualqu: 12,1, 15,1
+lug: 12,1, 14,13, 17,1, 19,1, 21,5
+cha: 13,4
+bi: 13,2
+pobr: 13,1
+favel: 13,1, 23,2
+perambul: 13,1
+asfalt: 13,1
+rapaz: 13,1
+decent: 13,1
+vist: 13,1
+muit: 13,2, 16,2, 22,1
+escol: 13,1, 23,1
+ler: 13,1
+mae: 13,1
+nest: 13,1
+vadi: 13,1
+malv: 13,1
+fri: 13,1
+arl: 14,1
+cruz: 14,3
+ogum: 14,2
+ians: 14,2
+ging: 14,2
+cerc: 14,3
+su: 14,2
+melhor: 14,2, 20,4, 22,1
+cervej: 14,2, 22,1
+comemor: 14,2
+mit: 14,2
+oswald: 14,2
+cascad: 14,2
+vaz: 14,2
+lob: 14,2
+iraj: 14,2
+paz: 14,2, 17,1
+madur: 14,13, 15,2
+lai: 14,6
+relembr: 14,1
+esquec: 14,1, 15,1
+etern: 14,1
+poet: 14,1
+inspiraca: 14,1
+tia: 14,1
+eulal: 14,1
+vo: 14,1
+benz: 14,1
+jong: 14,1
+esquin: 14,1
+bar: 14,1
+imperi: 14,1
+sao: 14,1
+mercada: 14,1
+compr: 14,1
+pechinch: 14,1
+deng: 14,1
+habilit: 14,1
+rond: 14,1
+caip: 14,1
+bilh: 14,1
+burac: 14,1
+suec: 14,1
+fe: 14,1
+grup: 14,1
+dezen: 14,1
+centen: 14,1
+milh: 14,1
+set: 14,1
+ialalaialala: 14,1
+lalalaialalalalala: 14,1
+emb: 15,2, 19,1
+mangu: 15,1, 23,1
+companh: 15,2
+mor: 15,1
+chal: 15,1
+quil: 15,1
+atitud: 15,1
+levi: 15,1
+vinh: 15,1
+fam: 15,1
+fiqu: 15,1
+perda: 15,1
+pag: 15,1, 22,1
+refra: 15,1
+explic: 15,1, 16,1
+abandon: 15,1
+adiant: 15,1
+palavr: 15,1
+atr: 15,1
+pergunt: 16,1
+respond: 16,1
+dentr: 16,1, 18,2
+renasc: 16,1
+despert: 16,1
+dan: 16,1
+fatal: 16,1
+remedi: 16,1
+cur: 16,1
+mau: 16,1, 18,2
+ama: 16,4
+brilh: 16,2
+emoca: 16,2
+clara: 16,2
+abenco: 16,2
+pai: 17,10
+revelaca: 17,1
+ta: 17,11, 20,2, 22,3
+ric: 17,1
+pouc: 17,1
+zon: 17,1
+med: 17,1
+inson: 17,1
+clim: 17,1, 20,2
+coit: 17,1
+amazon: 17,1
+filh: 17,1
+13: 17,1
+ano: 17,1
+larg: 17,1
+mamad: 17,1
+nen: 17,1
+crim: 17,1
+carr: 17,1
+blind: 17,1
+caiu: 17,1
+cpi: 17,1
+jur: 17,1, 18,2
+quas: 17,1
+rir: 17,1
+ench: 17,1
+crianc: 17,1
+rua: 17,1
+liber: 17,1
+pirat: 17,1
+send: 17,1
+assalt: 17,1
+letr: 17,1
+melod: 17,1
+vantag: 17,1
+sacan: 17,1
+jeit: 17,1
+pern: 17,1
+ar: 17,1
+exist: 17,1, 23,1
+apaixon: 18,25
+dudu: 18,1
+nobr: 18,1
+enrosqu: 18,3
+cafun: 18,2
+decot: 18,2
+sosseg: 18,2
+chameg: 18,2
+remelex: 18,2
+misteri: 18,2
+desvend: 18,2
+pitel: 18,2
+charm: 18,2
+maltrat: 18,2
+inoc: 18,2
+sali: 18,2
+estremec: 18,2
+avia: 18,2
+cham: 18,2
+atenca: 18,2
+balanc: 18,2
+enlouquec: 18,2
+arreg: 18,2
+fraquej: 18,2
+dur: 18,2
+sussurr: 18,2
+quart: 18,2
+escur: 18,2
+pedac: 18,2
+umbig: 18,2
+desal: 18,2
+meti: 18,2
+croch: 18,2
+bel: 18,2
+busti: 18,2
+senh: 18,2
+min: 18,2
+abal: 18,2
+queim: 18,2
+prai: 18,2
+blus: 18,2
+cai: 18,2, 22,1
+noit: 18,2, 22,1
+int: 18,2, 23,1
+ganda: 18,2
+doi: 19,3, 20,4
+lo: 19,1
+herm: 19,1
+atrev: 19,16, 22,1
+feit: 19,8
+corda: 19,1
+bloc: 19,1
+bamb: 19,1
+lavr: 19,1
+peit: 19,1
+ent: 19,1
+lac: 19,1
+raza: 20,3
+tranquil: 20,2
+zu: 20,2
+part: 20,2
+sequenc: 20,2
+demor: 20,4
+un: 21,11
+en: 21,8
+almoh: 21,7
+drexl: 21,1
+hazm: 21,4
+pech: 21,2
+calm: 21,1
+duerm: 21,3
+yo: 21,3
+una: 21,3
+cancion: 21,1
+cun: 21,1
+valsecit: 21,1
+tacuaremb: 21,1
+ira: 21,1
+llev: 21,1
+nub: 21,1
+si: 21,1
+ant: 21,1
+hay: 21,4
+rincon: 21,4
+el: 21,2
+sobr: 21,2
+esperandom: 21,2
+casc: 21,1
+sombr: 21,1
+jacarand: 21,1
+acerc: 21,1
+mejill: 21,1
+escuchart: 21,1
+respir: 21,1
+verdad: 22,2
+chin: 22,2
+emili: 22,1
+santiag: 22,1
+ilusa: 22,1
+intenca: 22,1
+boc: 22,1, 23,1
+levant: 22,1
+mag: 22,1
+convers: 22,1
+promess: 22,1
+segu: 22,3
+trac: 22,1
+cartilh: 22,1
+receit: 22,1
+norm: 22,1
+afinal: 22,1
+mestr: 22,1
+pao: 22,1
+diab: 22,1
+amass: 22,1
+perd: 22,1
+acomod: 22,3
+cop: 22,3
+serv: 23,1
+aut: 23,1
+bande: 23,6
+ze: 23,5
+caroc: 23,4
+alvoroc: 23,1
+alert: 23,1
+coloss: 23,1
+raiz: 23,1
+mad: 23,1
+vil: 23,1
+isabel: 23,1
+verd: 23,1
+trabalh: 23,1
+batalh: 23,1
+malh: 23,1
+prec: 23,1
+feir: 23,1
+televisa: 23,1
+brasil: 23,1
+destro: 23,1
+novel: 23,1
+bot: 23,1
+discurs: 23,1
+profund: 23,1
+lid: 23,2
+lelelel: 23,2
+lelelelelelelelel: 23,2
