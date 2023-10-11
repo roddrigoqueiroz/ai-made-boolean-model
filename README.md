@@ -30,8 +30,11 @@ To execute a search, create a text file named `query.txt` and input your desired
 
 To run the code, execute the `modelo_booleano.py` file. Ensure that `query.txt`, is in the same directory as the script, and the path to `base.txt` is correct. The code will initiate the search based on the query and the base file, and return the corresponding filenames in a file called `answer.txt`, if any. It's important to note that the boolean search code is functional, but it may have some limitations and flaws due to the query handling implementation.
 
+
 ```bash
 > python modelo_booleano.py base_samba/base.txt query.txt
 ```
 
 Feel free to explore the code and experiment with different queries!
+
+[Screencast from 10-10-2023 22:16:58.webm](https://github.com/roddrigoqueiroz/ai-made-boolean-model/assets/81868307/05f624da-368e-445e-9cda-d2f055f74441)
